@@ -12,6 +12,4 @@ The license that this code is offered under is unknown. Per ACM policy, "For Alg
 
 The original Fortran code is rumored to be licensed for inclusion in the SciPy project.
 
-For changes made by by Nick ODell, those changes are licensed under the BSD 3-Clause license, to the extent that he has the legal right to do so. These files may be considered derivative works of algorithm 969.
-
 If this is too much legal risk for you, then don't use this repo.
